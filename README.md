@@ -1,16 +1,41 @@
-## Hi there 👋
-
-<!--
-**manuzafar/manuzafar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ # Hey, I'm Manu                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                         
+  **Building the future where AI agents transact autonomously.**                                                                                                                                                                                         
+                                                                                                                                                                                                                                                         
+  I work at the intersection of multi-agent systems, commerce, and payments—designing architectures where intelligent agents discover products, negotiate terms, and execute transactions without human intervention.                                    
+                                                                                                                                                                                                                                                         
+  ---                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                         
+  ### What I'm Working On                                                                                                                                                                                                                                
+                                                                                                                                                                                                                                                         
+  **Multi-Agent Systems for Enterprise Product Discovery**                                                                                                                                                                                               
+  Building orchestration frameworks that enable fleets of specialized agents to navigate complex product catalogs, understand enterprise procurement needs, and surface optimal matches at scale.                                                        
+                                                                                                                                                                                                                                                         
+  **Agentic Payments & Autonomous Commerce**                                                                                                                                                                                                             
+  Exploring the infrastructure required when machines become economic actors—identity, authorization, settlement, and the trust frameworks that make agent-to-agent commerce viable.                                                                     
+                                                                                                                                                                                                                                                         
+  ---                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                         
+  ### Perspectives                                                                                                                                                                                                                                       
+                                                                                                                                                                                                                                                         
+  I write and speak about:                                                                                                                                                                                                                               
+  - Product Strategy, Payments, Merchant Payments                                                                                                                                                                                                        
+  - Agent economics and machine-to-machine payment rails                                                                                                                                                                                                 
+  - Trust, identity, and authorization in autonomous systems                                                                                                                                                                                             
+  - The shift from user interfaces to agent interfaces                                                                                                                                                                                                   
+  - Open protocols for agentic commerce                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                         
+  ---                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                         
+  ### Open Source                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                         
+  I believe the foundations of agentic commerce should be open. Check out my repositories for tools, frameworks, and experiments in this space.                                                                                                          
+                                                                                                                                                                                                                                                         
+  ---                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                         
+  ### Let's Connect                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                         
+  - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/manu-zafar-abdulla-6415313b/)                                                                                                                                                            
+  - **Writing:** [Substack](https://paidit.substack.com/)                                                                                                                                                                                                
+                                                                                                                                                                                                                                                         
+  *Interested in agentic commerce, multi-agent architectures, or the future of autonomous transactions? Let's talk.*      
